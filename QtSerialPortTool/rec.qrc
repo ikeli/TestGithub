@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/gray.png</file>
+        <file>images/green.png</file>
+        <file>images/Refresh_18.png</file>
+        <file>default.qss</file>
+    </qresource>
+</RCC>
